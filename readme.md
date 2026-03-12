@@ -1,7 +1,11 @@
-create virtual environment!!!
+1-> create virtual environment!!!
 
-1-> In Poinst_Browser_url.py file set the destination website_url="your url".
+2-> Active Virtual env
 
-2-> Then set the timer while loop sleep function (10/20)second.
+3-> pip install -r requirements.txt
 
-3-> after clone then just run the command "python point_browser_url.py"
+4-> In Poinst_Browser_url.py file set the destination website_url="your url".
+
+5-> Then set the timer while loop sleep function (10/20)second.
+
+6-> after clone then just run the command "python point_browser_url.py"
